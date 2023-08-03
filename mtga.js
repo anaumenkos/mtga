@@ -1,5 +1,5 @@
 function MakeTwitterGreatAgain() {
-    const mtga = document.querySelectorAll(".r-1cvl2hr.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp")[0];
+    const mtga = document.querySelectorAll(".r-18jsvk2.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp")[0];
 
     if (mtga) {
         console.log("FOUND MTGA");
